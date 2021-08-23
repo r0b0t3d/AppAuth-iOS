@@ -1,6 +1,22 @@
 # AppAuth for iOS and macOS Changelog
 
-## Unreleased
+## 1.4.0
+
+### Added
+
+1. Support for Swift Package Manager
+
+## 1.3.1
+
+### Fixes
+
+1. Removed `UIWebView` reference in comment
+
+## 1.3.0
+
+### Notable Changes
+
+1. Support for Mac Catalyst
 
 ## 1.2.0
 
